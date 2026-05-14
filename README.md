@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johanna+Panganuron;Junior+Full-Stack+Web+Developer;Vue+%7C+React+%7C+Next.js+%7C+Node.js;Open+to+freelance+%26+full-time+roles!" alt="Typing SVG" />
+  <h1>Hi, I'm Johanna B. Panganuron</h1>
+  <p>Junior Full-Stack Web Developer · Vue · React · Next.js · Node.js</p>
+  <p>Open to freelance & full-time roles</p>
 </div>
 
 <div align="center">
