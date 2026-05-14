@@ -105,7 +105,7 @@ See all my projects on my [portfolio](https://johannapanganuron.vercel.app)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=johanna-panganuron&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johanna-panganuron&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johanna-panganuron&theme=tokyonight" height="160" />
 </div>
 
 ---
