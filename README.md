@@ -69,10 +69,10 @@ Fresh BSIT graduate and Junior Full-Stack Web Developer based in Cordova, Cebu, 
 
 ## Featured Projects
 
-### LensLight Eye Care Website
-> React · SASS &nbsp;|&nbsp; May 2026
+### Mimi's Pet Grooming Management System
+> Vue.js · Node.js · Express.js · MySQL · Socket.io · JWT · Gemini AI &nbsp;|&nbsp; June–October 2025
 
-Modern eye care clinic website with service catalog, eyewear collection showcase, doctor profiles, and appointment booking. Built with reusable React components and fully responsive layout.
+Full-stack pet grooming management system with appointment booking, real-time notifications via Socket.io, Google Gemini AI chatbot, and Chart.js dashboards with PDF/Excel report generation.
 
 ---
 
@@ -83,41 +83,6 @@ Full e-commerce frontend with product catalog, lookbook editorial section, and f
 
 ---
 
-### Cebu Tours Travel Website
-> Next.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; March 2026
-
-Travel and tourism website featuring island hopping packages, whale shark watching, canyoneering adventures, destination highlights, guide profiles, and a booking inquiry form.
-
----
-
-### Kape ni Juwana Coffee Shop Website
-> Vue.js · Vite · CSS &nbsp;|&nbsp; February 2026
-
-Visually engaging coffee shop website showcasing the menu, brand identity, and ambiance. Uses Vite for optimized builds and fast hot module replacement.
-
----
-
-### Blade & Beard Barbershop Website
-> Next.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; January 2026
-
-Professional barbershop website with service listings, barber profiles, photo gallery, and appointment booking form. Pixel-perfect mobile-first design.
-
----
-
-### J & C Events Wedding Planner Website
-> React · Vite · CSS &nbsp;|&nbsp; December 2025
-
-Elegant wedding and events planner website with gallery, quote request form, and FAQ section. Custom CSS animations and fully responsive layout.
-
----
-
-### Mimi's Pet Grooming Management System
-> Vue.js · Node.js · Express.js · MySQL · Socket.io · JWT · Gemini AI &nbsp;|&nbsp; June–October 2025
-
-Full-stack pet grooming management system with appointment booking, real-time notifications via Socket.io, Google Gemini AI chatbot, and Chart.js dashboards with PDF/Excel report generation.
-
----
-
 ### CPC SSG Voting System
 > Vue CLI · Node.js · Express.js · MySQL · JWT · Chart.js &nbsp;|&nbsp; May 2025
 
@@ -125,17 +90,14 @@ Secure web-based student voting system with one-vote-per-student enforcement and
 
 ---
 
-### CPC Library Management System
-> PHP · MySQL · JavaScript · HTML · CSS &nbsp;|&nbsp; November 2024
+### Cebu Tours Travel Website
+> Next.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; March 2026
 
-Automated book inventory management, borrowing and returning transactions, and overdue fine calculations.
+Travel and tourism website featuring island hopping packages, whale shark watching, canyoneering, destination highlights, guide profiles, and a booking inquiry form.
 
 ---
 
-### Task Tracker
-> Next.js · Laravel · MongoDB · SASS · JWT &nbsp;|&nbsp; May 2025
-
-Full-stack task management application to help users organize and monitor daily tasks and projects.
+See all my projects on my [portfolio](https://johannapanganuron.vercel.app)
 
 ---
 
