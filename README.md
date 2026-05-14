@@ -104,8 +104,8 @@ See all my projects on my [portfolio](https://johannapanganuron.vercel.app)
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanna-panganuron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanna-panganuron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johanna-panganuron&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanna-panganuron&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
