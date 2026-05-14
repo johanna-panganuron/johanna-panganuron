@@ -1,10 +1,6 @@
-# Hi there, I'm Johanna 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Web+Developer;Vue+%7C+React+%7C+Next.js+%7C+Node.js;Building+clean+%26+reliable+web+apps;Open+to+freelance+%26+full-time+roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johanna+Panganuron;Junior+Full-Stack+Web+Developer;Vue+%7C+React+%7C+Next.js+%7C+Node.js;Open+to+freelance+%26+full-time+roles!" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://johannapanganuron.vercel.app" target="_blank">
@@ -20,18 +16,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Fresh **BSIT Graduate** from Cordova Public College
-- 💼 Currently working as a **Part-time Full-Stack Developer** at [Lumnaire](https://www.lumnaire.com/)
-- 🌱 Always learning and building — currently deepening my skills in **TypeScript & Next.js**
-- 🏆 **3rd Placer & Best Technical Implementation** — Mini Hackathon (Figma), IT Day 2026
-- 📍 Based in **Cordova, Cebu, Philippines**
-- 🤝 Open to **freelance projects** and **full-time opportunities**
+Fresh BSIT graduate and Junior Full-Stack Web Developer based in Cordova, Cebu, Philippines. I build responsive, visually polished websites and web applications — from simple landing pages to full booking systems and dashboards.
+
+- Currently working part-time at [Lumnaire](https://www.lumnaire.com/) as a Full-Stack Web Developer
+- 3rd Placer & Best Technical Implementation — Mini Hackathon (Figma), IT Day 2026
+- Open to freelance projects and full-time opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -72,58 +67,92 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🐾 [Mimi's Pet Grooming Management System](https://github.com/johanna-panganuron)
-> Vue.js · Node.js · Express.js · MySQL · Socket.io · JWT · OAuth · Gemini AI · Chart.js
+### LensLight Eye Care Website
+> React · SASS &nbsp;|&nbsp; May 2026
 
-A full-stack pet grooming management system with:
-- 📅 Appointment booking & pet profile management
-- 🔔 Real-time notifications via Socket.io
-- 🤖 Google Gemini AI chatbot for customer support
-- 📊 Chart.js dashboards & PDF/Excel report generation
+Modern eye care clinic website with service catalog, eyewear collection showcase, doctor profiles, and appointment booking. Built with reusable React components and fully responsive layout.
 
 ---
 
-### 🗳️ [CPC SSG Voting System](https://github.com/johanna-panganuron)
-> Vue CLI · Node.js · Express.js · MySQL · JWT · Chart.js · Tailwind CSS
+### REVOLT Streetwear E-Commerce Website
+> Nuxt.js · Vue.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; April 2026
 
-A secure web-based student voting system with:
-- 🔐 One-vote-per-student enforcement
-- 📊 Real-time election result visualization
+Full e-commerce frontend with product catalog, lookbook editorial section, and functional cart system. Uses Nuxt.js SSR for improved SEO and TypeScript for type-safe component development.
 
 ---
 
-### 📚 [CPC Library Management System](https://github.com/johanna-panganuron)
-> PHP · MySQL · JavaScript · HTML · CSS
+### Cebu Tours Travel Website
+> Next.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; March 2026
 
-- 📖 Automated book borrowing, returning & overdue fine calculations
-
----
-
-### ✅ [Task Tracker](https://github.com/johanna-panganuron)
-> Next.js · Laravel · MongoDB · SASS · JWT
-
-- 📋 Full-stack task management app to organize daily tasks and projects
+Travel and tourism website featuring island hopping packages, whale shark watching, canyoneering adventures, destination highlights, guide profiles, and a booking inquiry form.
 
 ---
 
-## 📊 GitHub Stats
+### Kape ni Juwana Coffee Shop Website
+> Vue.js · Vite · CSS &nbsp;|&nbsp; February 2026
+
+Visually engaging coffee shop website showcasing the menu, brand identity, and ambiance. Uses Vite for optimized builds and fast hot module replacement.
+
+---
+
+### Blade & Beard Barbershop Website
+> Next.js · TypeScript · Tailwind CSS &nbsp;|&nbsp; January 2026
+
+Professional barbershop website with service listings, barber profiles, photo gallery, and appointment booking form. Pixel-perfect mobile-first design.
+
+---
+
+### J & C Events Wedding Planner Website
+> React · Vite · CSS &nbsp;|&nbsp; December 2025
+
+Elegant wedding and events planner website with gallery, quote request form, and FAQ section. Custom CSS animations and fully responsive layout.
+
+---
+
+### Mimi's Pet Grooming Management System
+> Vue.js · Node.js · Express.js · MySQL · Socket.io · JWT · Gemini AI &nbsp;|&nbsp; June–October 2025
+
+Full-stack pet grooming management system with appointment booking, real-time notifications via Socket.io, Google Gemini AI chatbot, and Chart.js dashboards with PDF/Excel report generation.
+
+---
+
+### CPC SSG Voting System
+> Vue CLI · Node.js · Express.js · MySQL · JWT · Chart.js &nbsp;|&nbsp; May 2025
+
+Secure web-based student voting system with one-vote-per-student enforcement and real-time election result visualization.
+
+---
+
+### CPC Library Management System
+> PHP · MySQL · JavaScript · HTML · CSS &nbsp;|&nbsp; November 2024
+
+Automated book inventory management, borrowing and returning transactions, and overdue fine calculations.
+
+---
+
+### Task Tracker
+> Next.js · Laravel · MongoDB · SASS · JWT &nbsp;|&nbsp; May 2025
+
+Full-stack task management application to help users organize and monitor daily tasks and projects.
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanna-panganuron&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanna-panganuron&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johanna-panganuron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanna-panganuron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 </div>
 
 ---
 
-## 📬 Let's Connect!
+## Contact
 
-I'm always open to new opportunities, collaborations, or just a friendly chat about web development.
-
-- 🌐 **Portfolio:** [johannapanganuron.vercel.app](https://johannapanganuron.vercel.app)
-- 📧 **Email:** johannapanganuron@gmail.com
-- 📱 **Phone:** 0949 128 0100
+- Portfolio: [johannapanganuron.vercel.app](https://johannapanganuron.vercel.app)
+- Email: johannapanganuron@gmail.com
+- Location: Cordova, Cebu, Philippines
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=johanna-panganuron&color=10B981&style=flat-square" alt="Profile views" />
