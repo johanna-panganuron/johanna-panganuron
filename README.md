@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Johanna Panganuron
+# Hi, I'm Johanna B. Panganuron
 
 **Junior Full-Stack Web Developer · Vue · React · Next.js · Node.js**
 
