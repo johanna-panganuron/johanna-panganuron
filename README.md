@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Hi, I'm Johanna B. Panganuron</h1>
-  <p>Junior Full-Stack Web Developer · Vue · React · Next.js · Node.js</p>
-  <p>Open to freelance & full-time roles</p>
+
+# Hi, I'm Johanna Panganuron
+
+**Junior Full-Stack Web Developer · Vue · React · Next.js · Node.js**
+
+Open to freelance & full-time roles
+
 </div>
 
 <div align="center">
