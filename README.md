@@ -2,7 +2,7 @@
 
 # Hi, I'm Johanna B. Panganuron
 
-**Junior Full-Stack Web Developer · Vue · React · Next.js · Node.js**
+**Full-Stack Web Developer · Vue · React · Next.js · Node.js**
 
 Open to freelance & full-time roles
 
@@ -24,7 +24,7 @@ Open to freelance & full-time roles
 
 ## About Me
 
-Fresh BSIT graduate and Junior Full-Stack Web Developer based in Cordova, Cebu, Philippines. I build responsive, visually polished websites and web applications — from simple landing pages to full booking systems and dashboards.
+Fresh BSIT graduate and Full-Stack Web Developer based in Cordova, Cebu, Philippines. I build responsive, visually polished websites and web applications — from simple landing pages to full booking systems and dashboards.
 
 - Currently working part-time at [Lumnaire](https://www.lumnaire.com/) as a Full-Stack Web Developer
 - 3rd Placer & Best Technical Implementation — Mini Hackathon (Figma), IT Day 2026
