@@ -2,7 +2,7 @@
 
 # Hi, I'm Johanna B. Panganuron
 
-**Full-Stack Web Developer · Vue · React · Next.js · Node.js**
+**Full-Stack Web Developer · Vue · React · PostgreSQL · Laravel**
 
 Open to freelance & full-time roles
 
