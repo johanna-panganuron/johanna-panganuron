@@ -9,7 +9,7 @@ Open to freelance & full-time roles
 </div>
 
 <div align="center">
-  <a href="https://johannapanganuron.vercel.app" target="_blank">
+  <a href="https://johannapanganuron.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:johannapanganuron@gmail.com">
